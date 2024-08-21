@@ -2,7 +2,7 @@
 """
 Created on Tue Aug 20 18:11:02 2024
 
-@author: Kaue Prata
+@author: bird
 """
 
 import PyPDF2
